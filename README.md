@@ -11,7 +11,7 @@ The Dice Game is a simple and fun web-based game where two players roll dice to 
 - Simple and intuitive user interface.
 - Random number generation to simulate dice rolls.
 
-## How to Play?
+## How to Play ?
 
 To play the Dice Game, simply checkout the deployed website under "About" section.
 
