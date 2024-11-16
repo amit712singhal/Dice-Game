@@ -1,29 +1,25 @@
 # Dice Game
 
-## Description
-
 The Dice Game is a simple and fun web-based game where two players roll dice to see who gets the higher number. Refresh the page to play again and determine the winner with each refresh!
 
+## Screenshot
+
+![Dice Game Screenshot](./images/demo.png)
+
+## How to Play ?
+
+To play the Dice Game, simply checkout the deployed website under "About" section.
+
+- The page will automatically roll the dice for both players upon loading.
+- The player with the higher dice roll is declared the winner.
+- Refresh the page to play again.
+  
 ## Features
 
 - Interactive gameplay with instant results on each page refresh.
 - Visual representation of dice rolls for both players.
 - Simple and intuitive user interface.
 - Random number generation to simulate dice rolls.
-
-## How to Play ?
-
-To play the Dice Game, simply checkout the deployed website under "About" section.
-
-## Screenshot
-
-![Dice Game Screenshot](./images/demo.png)
-
-## Usage
-
-- The page will automatically roll the dice for both players upon loading.
-- The player with the higher dice roll is declared the winner.
-- Refresh the page to play again.
 
 ## Contributing
 
