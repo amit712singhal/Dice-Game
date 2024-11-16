@@ -2,9 +2,9 @@
 
 The Dice Game is a simple and fun web-based game where two players roll dice to see who gets the higher number. Refresh the page to play again and determine the winner with each refresh!
 
-## Screenshot
+## Preview
 
-![Dice Game Screenshot](./images/demo.png)
+![Dice-Game-Demo](./images/demo.png)
 
 ## How to Play ?
 
