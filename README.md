@@ -21,16 +21,6 @@ To play the Dice Game, simply checkout the deployed website [here](https://amit7
 - Simple and intuitive user interface.
 - Random number generation to simulate dice rolls.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a new Pull Request.
-
 ## Credits
 
 This project was created as part of a [Web Development Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy. Credits go to Dr. Angela Yu for providing guidance and resources.
