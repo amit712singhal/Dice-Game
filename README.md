@@ -8,7 +8,7 @@ The Dice Game is a simple and fun web-based game where two players roll dice to 
 
 ## How to Play ?
 
-To play the Dice Game, simply checkout the deployed website under "About" section.
+To play the Dice Game, simply checkout the deployed website [here](amit712singhal.github.io/Dice-Game/)
 
 - The page will automatically roll the dice for both players upon loading.
 - The player with the higher dice roll is declared the winner.
